@@ -1,1 +1,2 @@
-# machine-learning-using-sklearn-and-tensorflow
+# machine learning using sklearn and tensorflow
+A lot of persons are vary curious about machine learning implementation. but they don’t know how to implement them. So from today onwards, I will be posting some of the machine learning model building techniques and also I'm covering some of deep learning model building techniques .here a guide of making machine learning models with the help of scikit-learn and TensorFlow 2.0 and some of the important library like pandas,numpy and important one is matplotlib
