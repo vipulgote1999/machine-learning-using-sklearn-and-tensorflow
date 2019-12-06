@@ -7,7 +7,7 @@ so first u have to create an environment on which u can run all python code or u
 
 1. for windows:-
   :https://www.python.org/downloads/release/python-360/
-   choose Windows x86 or x64 executable installer 
+   choose any one Windows x86 or x64 executable installer 
 2. For Ubuntu or Linux:-
 http://ubuntuhandbook.org/index.php/2017/07/install-python-3-6-1-in-ubuntu-16-04-lts/
 Just follow the steps 
