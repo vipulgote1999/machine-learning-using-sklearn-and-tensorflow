@@ -1,1 +1,1 @@
-# machine-learning-alogoritm-codes
+# machine-learning-using-sklearn-and-tensorflow
