@@ -1,0 +1,15 @@
+The following steps needs to follow to checking and installing of python library on pc:-
+
+•	So to implement machine learning projects we require some of machine learning library and also some data handling library.
+•	But firstly open command prompt(windows)/terminal( For Linux users) 
+	Go to start -> search(run)-> when run open up type “cmd “then a black window will open and then type python and press enter .If the command is execute without error congratulations u have successfully installed python in u r local machine.
+•	Now u have to install machine learning library we are going to use in this project building 
+	  o  Open command prompt and type following command make sure that u have proper internet connection .
+	  o  pip install numpy
+	  o  pip install pandas
+	  o  pip install scikit-learn
+	  o  pip install matplotlib 
+	  o  pip install seaborn 
+  	if it show some error do check on google/youtube once lot of videos are there for guidance.
+
+•	for deep learning purpose install tensorflow for tenso flow we are going to use anaconda or pycharm IDE which very helpful for Object-oriented programming.  
